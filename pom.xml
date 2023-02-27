@@ -5,10 +5,11 @@
 
     <groupId>ru.bossones.springinaction</groupId>
     <artifactId>SpringInAction</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>internal</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>Chapter 1</module>
+        <module>Chapter 2</module>
     </modules>
 </project>
