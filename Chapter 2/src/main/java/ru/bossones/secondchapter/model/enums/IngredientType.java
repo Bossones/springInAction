@@ -3,7 +3,7 @@ package ru.bossones.secondchapter.model.enums;
 /**
  * Тип ингридиента.
  */
-public enum IngridientType {
+public enum IngredientType {
     WRAP,
     PROTEIN,
     VEGGIES,
